@@ -208,5 +208,4 @@ same period count once.
 
 ## Author
 
-Musa Yerima Marcha — IU International University of Applied Sciences,
-DLBDSOOFPP01 portfolio.
+Musa Yerima Marcha — IU International University of Applied Sciences.
