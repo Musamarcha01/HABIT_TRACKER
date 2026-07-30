@@ -42,8 +42,8 @@ exactly as the task requires.
 1. Download or clone this repository:
 
    ```
-   git clone https://github.com/<your-username>/oofpp_habits_project.git
-   cd oofpp_habits_project
+   git clone https://github.com/Musamarcha01/HABIT_TRACKER.git
+   cd HABIT_TRACKER
    ```
 
 2. (Optional but recommended) create and activate a virtual environment:
@@ -147,7 +147,7 @@ running them never touches your real `habits.db` file.
 ## Project structure
 
 ```
-oofpp_habits_project/
+HABIT_TRACKER/
 ├── habit.py           # Habit class — the object-oriented domain model
 ├── database.py        # HabitRepository — the SQLite data-access layer
 ├── analytics.py       # Pure functional analytics (map / filter / reduce)
