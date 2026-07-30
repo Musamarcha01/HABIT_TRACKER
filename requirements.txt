@@ -1,0 +1,5 @@
+# Runtime: the application uses only the Python standard library
+# (sqlite3, datetime, uuid, functools, argparse) — no runtime dependencies.
+
+# Development / testing:
+pytest>=7.0
